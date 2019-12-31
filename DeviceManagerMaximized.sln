@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManagerMaximized", "DeviceManagerMaximized.csproj", "{A3E56A74-7060-4608-B369-C9DAD720E16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E56A74-7060-4608-B369-C9DAD720E16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E56A74-7060-4608-B369-C9DAD720E16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E56A74-7060-4608-B369-C9DAD720E16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E56A74-7060-4608-B369-C9DAD720E16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B51DC4D8-18CA-4AF0-9732-BE0E9784FB49}
+	EndGlobalSection
+EndGlobal
